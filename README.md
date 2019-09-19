@@ -65,6 +65,7 @@ See the [install instructions](/docs/introduction/install.md)
 - [Local cluster using docker-compose](/docs/networks/docker-compose.md)
 - [Remote cluster using terraform and ansible](/docs/networks/terraform-and-ansible.md)
 - [Join the Cosmos testnet](https://cosmos.network/testnet)
+- [Tendermint Crash Course](http://xc.hubwiz.com/course/5bdec63ac02e6b6a59171df3?affid=github7878)
 
 ## Contributing
 
